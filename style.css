@@ -21,6 +21,7 @@ header {
     z-index: 99;
 }
 
+
 body{
   background-color: rgb(255, 255, 255);
   
@@ -39,8 +40,8 @@ body{
 }
 
 .rounded-circle{
-  width: 10%;
-  height: 10%;
+  width: 30%;
+  height: 30%;
 }
 
 .navigation a {
