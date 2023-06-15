@@ -26,6 +26,11 @@ body{
   
 }
 
+.imagens{
+    width:30%;
+    heigth:30%;
+}
+
 
 .logo {
     font-size: 2em;
